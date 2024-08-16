@@ -1,0 +1,56 @@
+{
+    ItemGiverChained: [
+    ],
+    TransportData: [
+    ],
+    FactionData: [
+        {
+            Points: 2000,
+            Faction: 0
+        }
+    ],
+    BankData: [
+    ],
+    ItemGiversList: [
+    ],
+    MailData: [
+    ],
+    PlayerName: "FriedRiceBacon",
+    QuestData: {
+        CompletedQuests: [
+        ],
+        ActiveQuests: [
+        ]
+    },
+    UUID: "61a951c7-707b-4077-acb3-469504c6ac4c",
+    PlayerCompanionId: 0,
+    DialogData: [
+        {
+            Dialog: 32
+        },
+        {
+            Dialog: 4
+        },
+        {
+            Dialog: 5
+        },
+        {
+            Dialog: 27
+        },
+        {
+            Dialog: 28
+        },
+        {
+            Dialog: 12
+        },
+        {
+            Dialog: 29
+        },
+        {
+            Dialog: 14
+        },
+        {
+            Dialog: 31
+        }
+    ]
+}
